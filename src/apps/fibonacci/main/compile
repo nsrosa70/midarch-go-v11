@@ -1,9 +1,6 @@
 echo '-------------------------------------'
 export GOPATH=$GOPATH:/Users/nsr/go:/Users/nsr/Dropbox/go:/Users/nsr/Dropbox/go/midarch-go-v11
 export GOROOT=/usr/local/go
-echo "Compiling Naming Server"
-cd /Users/nsr/Dropbox/go/midarch-go-v11/src/transport/myRPC/services/naming
-go build namingserver.go 
 
 echo "Compiling Fibonacci Server"
 cd /Users/nsr/Dropbox/go/midarch-go-v11/src/apps/fibonacci/main
@@ -12,9 +9,4 @@ go build fibonacciserver.go
 echo "Compiling Fibonacci Client"
 cd /Users/nsr/Dropbox/go/midarch-go-v11/src/apps/fibonacci/main
 go build fibonacciclient.go
-
-echo '-------------------------------------'
-echo 'Executing Naming Server'
-cd /Users/nsr/Dropbox/go/midarch-go-v11/src/transport/myRPC/services/naming
-./namingserver SHOW_PARAMETERS=true
 

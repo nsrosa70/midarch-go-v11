@@ -59,7 +59,7 @@ func (ee ExecutionEnvironment) Deploy(adlFileName string) {
 	CheckActionsAndImplementations(conf)
 
 	// Show execution parameters
-	shared.ShowExecutionParameters(true)
+	shared.ShowExecutionParameters(parameters.SHOW_PARAMETERS)
 
 	// Start the adaptation manager
 	if parameters.IS_CORRECTIVE || parameters.IS_EVOLUTIVE || parameters.IS_PROACTIVE {

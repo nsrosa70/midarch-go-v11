@@ -1,0 +1,131 @@
+
+Rafael M. O. Cruz ; Robert Sabourin ; George D. C. Cavalcanti . On dynamic ensemble selection and data preprocessing for multi-class imbalance learning. In: International Conference on Pattern Recognition and Artificial Intelligence (ICPRAI), 2018, Montreal. International Conference on Pattern Recognition and Artificial Intelligence, 2018.
+
+4.
+LAPENDA, LETICIA V. N. ; PINHEIRO, ROBERTO H. W. ; Cavalcanti, George D. C. . An empirical analysis of Combined Dissimilarity Spaces. In: 2018 International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro. 2018 International Joint Conference on Neural Networks (IJCNN), 2018. p. 1.
+
+5.
+SILVA, ERAYLSON. G. ; DE O. JUUNIOR, DOMINGOS S. ; Cavalcanti, George D. C. ; DE MATTOS NETO, PAULO S. G. . Improving the accuracy of intelligent forecasting models using the Perturbation Theory. In: 2018 International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro. 2018 International Joint Conference on Neural Networks (IJCNN), 2018. p. 1.
+
+6.
+OLIVEIRA, DAYVID V. R. ; Cavalcanti, George D. C. ; PORPINO, THYAGO N. ; Cruz, Rafael M. O. ; Sabourin, Robert . K-Nearest Oracles Borderline Dynamic Classifier Ensemble Selection. In: 2018 International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro. 2018 International Joint Conference on Neural Networks (IJCNN), 2018. p. 1.
+
+7.
+WALMSLEY, FELIPE N. ; Cavalcanti, George D. C. ; OLIVEIRA, DAYVID V. R. ; Cruz, Rafael M. O. ; Sabourin, Robert . An Ensemble Generation Method Based on Instance Hardness. In: 2018 International Joint Conference on Neural Networks (IJCNN), 2018, Rio de Janeiro. 2018 International Joint Conference on Neural Networks (IJCNN), 2018. p. 1.
+
+8.
+GOMES DE MOURA, KECIA ; BASTOS CAVALCANTE PRUDENCIO, RICARDO ; DARMITON DA CUNHA CAVALCANTI, GEORGE . Ensemble Methods for Label Noise Detection Under the Noisy at Random Model. In: 2018 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018, Sao Paulo. 2018 7th Brazilian Conference on Intelligent Systems (BRACIS), 2018. p. 474-479.
+
+9.
+Pinheiro, Hector N. B. ; NETO, FERNANDO M. P. ; OLIVEIRA, ADRIANO L. I. ; REN, TSANG ING ; Cavalcanti, George D. C. ; ADAMI, ANDRE G. . Optimizing speaker-specific filter banks for speaker verification. In: ICASSP 2017 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017, New Orleans. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017. p. 5350.
+
+10.
+NERI, LEONARDO V. ; Pinheiro, Hector N. B. ; REN, TSANG ING ; DA C. CAVALCANTI, GEORGE D. ; ADAMI, ANDRE G. . Speaker segmentation using i-vector in meetings domain. In: ICASSP 2017 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017, New Orleans. 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2017. p. 5455.
+
+11.
+SOUZA, MARIANA A. ; Cavalcanti, George D. C. ; Cruz, Rafael M. O. ; Sabourin, Robert . On the characterization of the Oracle for dynamic classifier selection. In: 2017 International Joint Conference on Neural Networks (IJCNN), 2017, Anchorage. 2017 International Joint Conference on Neural Networks (IJCNN), 2017. p. 332-339.
+
+12.
+Cruz, Rafael M. O. ; Sabourin, Robert ; Cavalcanti, George D. C. . Analyzing different prototype selection techniques for dynamic classifier and ensemble selection. In: 2017 International Joint Conference on Neural Networks (IJCNN), 2017, Anchorage. 2017 International Joint Conference on Neural Networks (IJCNN), 2017. p. 3959-3966.
+
+13.
+TIMOTEO, ROBSON D.A. ; CUNHA, DANIEL C. ; SILVA, LIZANDRO N. ; George D. C. Cavalcanti . A Hybrid Machine Learning Approach for Mobile User Positioning in Cellular Networks. In: Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2017, São Pedro-SP. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2017. p. 166-170.
+
+14.
+Cruz, Rafael M. O. ; ZAKANE, HIBA H. ; Sabourin, Robert ; Cavalcanti, George D. C. . Dynamic ensemble selection VS K-NN: Why and when dynamic selection obtains higher classification performance?. In: 2017 Seventh International Conference on Image Processing Theory, Tools and Applications (IPTA), 2017, Montreal. 2017 Seventh International Conference on Image Processing Theory, Tools and Applications (IPTA), 2017. p. 1.
+
+15.
+Pinheiro, Hector N. B. ; VIEIRA, SERGIO R. F. ; REN, TSANG ING ; Cavalcanti, George D. C. ; DE MATTOS NETO, PAULO S. G. . Type-2 fuzzy GMM for text-independent speaker verification under unseen noise conditions. In: 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2016, Shanghai. 2016 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). p. 5490-5494.
+
+16.
+FRAGOSO, ROGERIO C. P. ; PINHEIRO, ROBERTO H. W. ; Cavalcanti, George D. C. . Class-dependent feature selection algorithm for text categorization. In: 2016 International Joint Conference on Neural Networks (IJCNN), 2016, Vancouver. 2016 International Joint Conference on Neural Networks (IJCNN). p. 3508-3515.
+
+17.
+DA CUNHA SANTIAGO, HEMIR ; REN, TSANG ING ; CAVALCANTI, GEORGE D.C. . Facial expression Recognition based on Motion Estimation. In: 2016 International Joint Conference on Neural Networks (IJCNN), 2016, Vancouver. 2016 International Joint Conference on Neural Networks (IJCNN). p. 1617.
+
+18.
+VILAR, BRUNO S. C. M. ; SCHROEDER, CEZAR P. ; WADA, CRISTINA ; BEZERRA, RAYANNE H. ; HEITZMANN, LEONARDO L. A. ; SIMIONATO, RAFAEL ; Cavalcanti, George D. C. . A prediction classifier architecture to forecast device status on smart environments. In: 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2016, Budapest. 2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC). p. 001116-001121.
+
+19.
+FRAGOSO, ROGERIO C.P. ; PINHEIRO, ROBERTO H.W. ; CAVALCANTI, GEORGE D.C. . A Method for Automatic Determination of the Feature Vector Size for Text Categorization. In: 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016, Recife. 2016 5th Brazilian Conference on Intelligent Systems (BRACIS). p. 259-264.
+
+20.
+CARVALHO, TIAGO B.A. DE ; SIBALDO, MARIA A.A. ; TSANG, ING REN ; CAVALCANTI, GEORGE D.C. ; TSANG, ING JYH ; SIJBERS, JAN . Pixel Clustering for Face Recognition. In: 2016 5th Brazilian Conference on Intelligent Systems (BRACIS), 2016, Recife. 2016 5th Brazilian Conference on Intelligent Systems (BRACIS). p. 121-126.
+
+21.
+ROY, ANANDARUP ; CRUZ, RAFAEL M.O. ; Sabourin, Robert ; Cavalcanti, George D. C. . Meta-regression based pool size prediction scheme for dynamic selection of classifiers. In: 2016 23rd International Conference on Pattern Recognition (ICPR), 2016, Cancun. 2016 23rd International Conference on Pattern Recognition (ICPR), 2016. p. 216.
+
+22.
+Roberto H. W. Pinheiro ; George D. C. Cavalcanti ; Tsang Ing Ren . Combinando Classificadores Binários no Espaço de Dissimilaridade para Categorização de Documentos. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2016, Recife. Encontro Nacional de Inteligência Artificial e Computacional, 2016. p. 253-264.
+
+23.
+Tiago B A Carvalho ; Maria A. A. Sibaldo ; Tsang Ing Ren ; George D. C. Cavalcanti . Minimum Classication Error Principal Component Analysis. In: Symposium on Knowledge Discovery, Mining and Learning (KDMiLe), 2016, Recife2. Symposium on Knowledge Discovery, Mining and Learning, 2016.
+
+24.
+Hector N. B. Pinheiro ; Tsang Ing Ren ; George D. C. Cavalcanti . Verificação de Locutores Independente de Texto: uma Análise de Robustez a Ruído. In: Concurso de Teses e Dissertações (CTD-CSBC), 2016, Porto Alegre. Concurso de Teses e Dissertações do CSBC, 2016.
+
+25.
+Hector N. B. Pinheiro ; Tsang Ing Ren ; George D. C. Cavalcanti . Verificação de Locutores Independente de Texto: uma Análise de Robustez a Ruído. In: Concurso de Teses e Dissertações em Inteligência Artificial e Computacional (CTDIAC), 2016, Recife. Concurso de Teses e Dissertações em Inteligência Artificial e Computacional do Bracis, 2016.
+
+26.
+Luis F. A. Pereira ; Eline Janssens ; Mattias Van Dael ; Pieter Verboven ; Bart Nicolai ; George D. C. Cavalcanti ; Tsang Ing Ren ; Jan Sijbers . Fast X-ray Computed Tomography via Image Completion. In: Conference on Industrial Computed Tomography (iCT), 2016, Wels. Conference on Industrial Computed Tomography, 2016. p. 1-5.
+
+27.
+OLIVEIRA, DAYVID V. R. ; Cavalcanti, George D. C. ; REN, TSANG ING ; SILVA, RICARDO M. A. . Evolutionary Adaptive Self-Generating Prototypes for imbalanced datasets. In: 2015 International Joint Conference on Neural Networks (IJCNN), 2015, Killarney. 2015 International Joint Conference on Neural Networks (IJCNN). p. 1-8.
+
+28.
+OLIVEIRA, DAYVID V. R. ; PORPINO, THYAGO N. ; Cavalcanti, George D. C. ; REN, TSANG ING . A bootstrap-based iterative selection for ensemble generation. In: 2015 International Joint Conference on Neural Networks (IJCNN), 2015, Killarney. 2015 International Joint Conference on Neural Networks (IJCNN). p. 1-7.
+
+29.
+Cruz, Rafael M. O. ; Sabourin, Robert ; Cavalcanti, George D. C. . META-DES.H: A Dynamic Ensemble Selection technique using meta-learning and a dynamic weighting approach. In: 2015 International Joint Conference on Neural Networks (IJCNN), 2015, Killarney. 2015 International Joint Conference on Neural Networks (IJCNN). p. 1-8.
+
+30.
+DE CARVALHO, T. B. A. ; COSTA, A. M. ; SIBALDO, M. A. A. ; TSANG, I. R. ; Cavalcanti, G. D. C. . Supervised fractional eigenfaces. In: 2015 IEEE International Conference on Image Processing (ICIP), 2015, Quebec City. 2015 IEEE International Conference on Image Processing (ICIP). p. 552-555.
+
+31.
+SANTIAGO, DIEGO J. C. ; REN, TSANG ING ; Cavalcanti, George D. C. ; JYH, TSANG ING . Efficient 2×2 block-based connected components labeling algorithms. In: 2015 IEEE International Conference on Image Processing (ICIP), 2015, Quebec City. 2015 IEEE International Conference on Image Processing (ICIP). p. 4818-4822.
+
+32.
+FREITAS, MARCELO BASSANI DE ; CAVALCANTI, GEORGE D.C. ; Sabourin, Robert . Transducer State Prediction System for Smart Environment Intelligent Control. In: 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015, Natal. 2015 Brazilian Conference on Intelligent Systems (BRACIS). p. 270-275.
+
+33.
+PINHEIRO, ROBERTO H.W. ; CAVALCANTI, GEORGE D.C. ; REN, TSANG ING . Text Categorization Based on Dissimilarity Representation and Prototype Selection. In: 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015, Natal. 2015 Brazilian Conference on Intelligent Systems (BRACIS). p. 163-168.
+
+34.
+SEVERO, DIOGO S. ; VERISSIMO, EVERSON ; Cavalcanti, George D. C. ; REN, TSANG ING . A modular neural network architecture that selects a different set of features per module. In: 2014 International Joint Conference on Neural Networks (IJCNN), 2014, Beijing. 2014 International Joint Conference on Neural Networks (IJCNN). p. 1370-1374.
+
+35.
+Luciano S. Cabral ; Rinaldo Lima ; Rafael D. Lins ; Fred Freitas ; Rafael Ferreira ; Gabriel F. P. Silva ; George D. C. Cavalcanti . A Hybrid Algorithm for Automatic Language Detection on Web and Text Documents. In: IAPR International Workshop on Document Analysis Systems, 2014, Tours ? Loire Valley. IAPR International Workshop on Document Analysis Systems, 2014. p. 3-4.
+
+36.
+CRUZ, RAFAEL M.O. ; Sabourin, Robert ; CAVALCANTI, GEORGE D.C. . On Meta-learning for Dynamic Ensemble Selection. In: 2014 22nd International Conference on Pattern Recognition (ICPR), 2014, Stockholm. 2014 22nd International Conference on Pattern Recognition. p. 1230-1235.
+
+37.
+PINHEIRO, HECTOR N.B. ; REN, TSANG ING ; CAVALCANTI, GEORGE D.C. ; JYH, TSANG ING ; SIJBERS, JAN . Type-2 Fuzzy GMMs for Robust Text-Independent Speaker Verification in Noisy Environments. In: 2014 22nd International Conference on Pattern Recognition (ICPR), 2014, Stockholm. 2014 22nd International Conference on Pattern Recognition. p. 4531-4536.
+
+38.
+Robson Timoteo ; Daniel C. Cunha ; George D. C. Cavalcanti . A Proposal for Path Loss Prediction in Urban Environments using Support Vector Regression. In: The Tenth Advanced International Conference on Telecommunications (AICT), 2014, Paris. The Advanced International Conference on Telecommunications, 2014.
+
+39.
+DE CARVALHO, T. B. A. ; SIBALDO, M. A. A. ; TSANG, I. R. ; Cavalcanti, G. D. C. ; TSANG, I. J. ; SIJBERS, J. . Fractional Eigenfaces. In: 2014 IEEE International Conference on Image Processing (ICIP), 2014, Paris. 2014 IEEE International Conference on Image Processing (ICIP). p. 258-262.
+
+40.
+DE OLIVEIRA MOURA, SHAYANE ; DE FREITAS, MARCELO BASSANI ; CARDOSO, HALISSON A. C. ; Cavalcanti, George D. C. . Choosing instance selection method using meta-learning. In: 2014 IEEE International Conference on Systems, Man and Cybernetics SMC, 2014, San Diego. 2014 IEEE International Conference on Systems, Man, and Cybernetics (SMC). p. 2003-2007.
+
+41.
+PEREIRA, LUIS F. ALVES ; DABRAVOLSKI, ANDREI ; REN, TSANG ING ; Cavalcanti, George D. C. ; SIJBERS, JAN . Conveyor Belt X-ray CT Using Domain Constrained Discrete Tomography. In: 2014 27th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2014, Brazil. 2014 27th SIBGRAPI Conference on Graphics, Patterns and Images. p. 290-297.
+
+42.
+Thiago L. Prata ; Tsang Ing Ren ; George D. C. Cavalcanti . On-line Cascade Boosted Classifier for Face Tracking. In: Workshop on Vision-based Human Activity Recognition (VBHAR) - Conference on Graphics, Patterns and Images (SIBGRAPI), 2014, Rio de Janeiro. Workshop on Vision-based Human Activity Recognition (VBHAR) - Conference on Graphics, Patterns and Images (SIBGRAPI), 2014.
+
+43.
+Luciano S. Pereira ; George D. C. Cavalcanti . Metodologia para Avaliar Técnicas de Redução de Protótipos: Protótipos Gerados versus Protótipos Selecionados. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2014, São Carlos. Encontro Nacional de Inteligência Artificial e Computacional, 2014. p. 336-341.
+
+44.
+Shayane O. Moura ; Marcelo B. Freitas ; Halisson A. C. Cardoso ; George D. C. Cavalcanti . Uma abordagem para a escolha do melhor método de seleção de instâncias usando meta-aprendizagem. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2014, São Carlos. Encontro Nacional de Inteligência Artificial e Computacional, 2014. p. 36-40.
+
+45.
+Luiz Vieira e Silva Filho ; George D. C. Cavalcanti . Uma arquitetura para combinação de classificadores otimizada por métodos de poda com aplicação em credit scoring. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2014, São Carlos. Encontro Nacional de Inteligência Artificial e Computacional, 2014. p. 59-66.
+
+46.
+SIBALDO, MARIA A. A. ; DE CARVALHO, TIAGO B. A. ; REN, TSANG ING ; CAVALCANTI, GEORGE . Recommender System Based on Modularity. In: the 2014 Recommender Systems Challenge, 2014, Foster City. Proceedings of the 2014 Recommender Systems Challenge on - RecSysChallenge '14. New York: ACM Press. p. 58-61.

@@ -45,7 +45,9 @@ const CHAN_BUFFER_SIZE = 1
 const QUEUE_SIZE = 100
 
 //const PLUGIN_BASE_NAME  = "calculatorinvoker"
-const PLUGIN_BASE_NAME = "sender"
+//const PLUGIN_BASE_NAME = "sender"
+const PLUGIN_BASE_NAME = "fibonacciinvoker"
+
 const GRAPH_SIZE = 30
 
 const MAX_NUMBER_OF_ACTIVE_CONSUMERS = 10
@@ -60,3 +62,5 @@ var STRATEGY = 0             // 1 - no change 2 - change once 3 - change same pl
 var SAMPLE_SIZE = 0
 var NAMING_HOST = ""
 var QUEUEING_HOST = ""
+var SHOW_PARAMETERS = true
+var FIBONACCI_HOST = ""

@@ -19,9 +19,8 @@ func GetBehaviourExp() string {
 	return "B = InvP.e1 -> I_PosInvP -> TerP.e1 -> B"
 }
 
-func (FibonacciInvoker) I_PosInvP(msg *messages.SAMessage) {
+func (FibonacciInvoker) I_PosInvP(msg *messages.SAMessage,r *bool) {
 	op := msg.Payload.(messages.MIOP).Body.RequestHeader.Operation
-
 
 	switch op {
 	case "Fibo":
@@ -31,7 +30,7 @@ func (FibonacciInvoker) I_PosInvP(msg *messages.SAMessage) {
 		_p1 := int(_argsX[0].(float64))
 		_r := fibonacci.Fibonacci{}.Fibo(_p1) // dispatch
 
-		fmt.Println("Plugin 01")
+		//fmt.Println("[PLUGIN 01]")
 
 		// send reply
 		_replyHeader := messages.ReplyHeader{Status: 1} // 1 - Success

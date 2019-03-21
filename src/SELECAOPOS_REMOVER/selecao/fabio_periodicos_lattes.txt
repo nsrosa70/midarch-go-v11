@@ -1,0 +1,10 @@
+SANTOS, R. E. S. ; Fabio Q. B. da Silva ; Baldassarre, Maria Teresa ; Cleyton Vanut C. de Magalhães . Benefits and Limitations of Project-to-Project Job Rotation in Software Organizations: A Synthesis of Evidence. INFORMATION AND SOFTWARE TECHNOLOGY, p. 78-96, 2017.
+Luiz Fernando Capretz ; Faheem Ahmed ; Fabio Q. B. da Silva . Soft Sides of Software. INFORMATION AND SOFTWARE TECHNOLOGY, v. 92, p. 92-94, 2017.
+Clauirton A. Siebra ; Rebeka G. Oliveira ; Carolyn Seaman ; Fabio Q.B. da Silva ; SANTOS, ANDRÉ L. M. . Theoretical Conceptualization of TD: a Practical Perspective. JOURNAL OF SYSTEMS AND SOFTWARE, v. 120, p. 219-237, 2016.
+Fabio Q.B. da Silva; Cleviton V. F. Monteiro ; Igor Ebrahim dos Santos ; Luiz Fernando Capretz . How Software Development Group Leaders Influence Team Members' Innovative Behavior. IEEE Software, v. 33, p. 106-109, 2016.
+Guo, Yuepu ; Seaman, Carolyn ; Q.B. DA SILVA, FABIO . Costs and obstacles encountered in technical debt management - A case study. The Journal of Systems and Software, v. 120, p. 156-169, 2016.
+Shirley S. J. O. Cruz ; Fabio Q.B. da Silva ; Luiz Fernando Capretz . Forty years of research on personality in software engineering: A mapping study. Computers in Human Behavior, v. 46, p. 94-113, 2015.
+Citações:14|14
+DE MAGALHÃES, CLEYTON V.C. ; da Silva, Fabio Q.B. ; SANTOS, RONNIE E.S. ; SUASSUNA, MARCOS . Investigations about replication of empirical studies in software engineering: A systematic mapping study. Information and Software Technology, v. 64, p. 76-101, 2015.
+Citações:3|4
+Fabio Q.B. da Silva; A. César C. França ; Adelnei de L. C. Felix ; David E. S. Carneiro . Motivation in Software Engineering Industrial Practice: A Cross-Case Analysis of Two Software Organisations. INFORMATION AND SOFTWARE TECHNOLOGY, v. 56, p. 79-101, 2014.

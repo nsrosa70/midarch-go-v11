@@ -1,0 +1,29 @@
+1.
+ MEDEIROS, JULIANA ; VASCONCELOS, ALEXANDRE ; Silva, Carla ; GOULÃO, MIGUEL . Quality of software requirements specification in agile projects: A cross-case analysis of six companies. JOURNAL OF SYSTEMS AND SOFTWARE, v. 142, p. 171-194, 2018.
+
+2.
+SOUSA, S. P. A. ; SILVA, C. . Mapeando Cenário & LEL para o modelo Statechart: Uma Estratégia para Verificação da Especificação de Requisitos. REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO, v. 1, p. 8, 2018.
+
+3.
+VALENCA, M. ; SILVA, C. . cREaDTivity: Um Processo que Integra Design Thinking e Técnicas de Criatividade na Elicitação de Requisitos de Software. REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO, v. 1, p. 7, 2017.
+
+4.
+LOPES, D. ; ROUSY, D. ; SILVA, C. . Um modelo de jogador baseado em Estilos de Aprendizagem para promover feedback adaptativo aos jogadores. REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO, v. 1, p. 75-89, 2016.
+
+5.
+ALBUQUERQUE, H. ; SILVA, C. ; ROUSY, D. ; LUCENA, M. ; Cysneiros Filho, G. . GenNormas: um processo genérico para a Conformidade Legal de Requisitos na Engenharia de Requisitos. iSys - Revista Brasileira de Sistemas de Informação, v. 9, p. 57-76, 2016.
+
+6.
+Henrique, M. ; SILVA, C. ; ROUSY, D. ; TEDESCO, Patricia . Uma Revisão Sistemática da Literatura sobre o uso de Teorias de Aprendizagem em Softwares Educacionais. RENOTE. REVISTA NOVAS TECNOLOGIAS NA EDUCAÇÃO, v. 13, p. -, 2015.
+
+7.
+BARRETO, L. ; CAVACO, I. ; MONTEIRO, A. ; ROUSY, D. ; SILVA, C. . Gamification Aspects in Detail: Collectanea of Studies to Renew Traditional Education. REVISTA ELETRÔNICA ARGENTINA-BRASIL DE TECNOLOGIAS DA INFORMAÇÃO E DA COMUNICAÇÃO, v. 1, p. -, 2015.
+
+8.
+MEDEIROS, J. ; ALVES, D. ; Vasconcelos, A. ; SILVA, C. ; WANDERLEY, E. . Engenharia de requisitos em projetos ágeis: Uma revisão da literatura baseada em evidências da indústria. PRINCIPIA (JOÃO PESSOA), v. 1, p. 11, 2015.
+
+9.
+Souza, C. ; SILVA, C. . An Experimental Study of the Use of Design Thinking as a Requirements Elicitation Approach for Mobile Learning Environments. CLEI ELECTRONIC JOURNAL, v. 18, p. 5:1-5:18, 2015.
+
+10.
+CORREIA, ALEXANDRE R.S. ; IYODA, JULIANO M. ; SILVA, CARLA T.L.L . From Requirements to Ready to Run Software: A Brief Thought on How to Mechanize The Software Development Process. International Journal in Foundations of Computer Science & Technology, v. 4, p. 17-26, 2014.

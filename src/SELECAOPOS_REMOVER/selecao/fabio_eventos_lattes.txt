@@ -1,0 +1,49 @@
+Siebra, Clauirton ; CORREIA, W. F. ; PENHA, MARCELO ; MACEDO, JEFTE ; QUINTINO, J. P. ; ANJOS, MARCELO ; FLORENTIN, FABIANA ; SILVA, FABIO Q.B. ; SANTOS, A. L. M. . An Analysis on Tools for Accessibility Evaluation in Mobile Applications. In: X Brazilian Conference on Software: Theory and Practice (CBSoft) - XXXII Brazilian Symposium on Software Engineering, 2018, São Paulo. An Analysis on Tools for Accessibility Evaluation in Mobile Applications, 2018.
+
+5.
+Siebra, Clauirton ; SODRE, LEONARDO ; QUINTINO, J. P. ; SILVA, FABIO Q.B. ; SANTOS, A. L. M. . Lessons Learned from the Use of Collaborative Feedback in a Software Development Team. In: IX Brazilian Conference on Software - CBSOFT, 2018, São Paulo. Lessons Learned from the Use of Collaborative Feedback in a Software Development Team, 2018.
+
+6.
+Siebra, Clauirton ; GOUVEIA, TATIANA B. ; MACEDO, JEFTE ; Da Silva, Fabio Q. B. ; SANTOS, ANDRE L M ; CORREIA, WALTER ; PENHA, MARCELO ; ANJOS, MARCELO ; FLORENTIN, FABIANA . Toward accessibility with usability. In: the 11th International Conference, 2017, Beppu. Proceedings of the 11th International Conference on Ubiquitous Information Management and Communication - IMCOM '17. New York: ACM Press. p. 1.
+
+7.
+SANTOS, RONNIE EDSON DE SOUZA ; MAGALHAES, CLEYTON VANUT CORDEIRO DE ; CORREIA-NETO, JORGE DA SILVA ; SILVA, FABIO QUEDA BUENO DA ; CAPRETZ, LUIZ FERNANDO ; SOUZA, RODRIGO . Would You Like to Motivate Software Testers? Ask Them How. In: 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017, Toronto. 2017 ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), 2017. p. 95-6.
+
+8.
+ SANTOS, RONNIE E. S. ; Da Silva, Fabio Q. B. ; DE MAGALHÃES, CLEYTON V. C. ; Monteiro, Cleviton V. F. . Building a theory of job rotation in software engineering from an instrumental case study. In: the 38th International Conference, 2016, Austin. Proceedings of the 38th International Conference on Software Engineering - ICSE '16. p. 971-10.
+
+9.
+SANTOS, RONNIE E. S. ; Da Silva, Fabio Q. B. ; DE MAGALHÃES, CLEYTON V. C. . Benefits and limitations of job rotation in software organizations. In: the 20th International Conference, 2016, Limerick. Proceedings of the 20th International Conference on Evaluation and Assessment in Software Engineering - EASE '16. p. 1-12.
+
+10.
+DA CUNHA, JOSÉ ADSON O. G. ; Da Silva, Fabio Q. B. ; DE MOURA, HERMANO P. ; VASCONCELLOS, FRANCISCO J. S. . Decision-making in software project management. In: the 9th International Workshop, 2016, Austin. Proceedings of the 9th International Workshop on Cooperative and Human Aspects of Software Engineering - CHASE '16. New York: ACM Press. p. 26-35.
+
+11.
+Siebra, Clauirton ; GOUVEIA, TATIANA ; MACEDO, JEFTE ; CORREIA, WALTER ; PENHA, MARCELO ; ANJOS, MARCELO ; FLORENTIN, FABIANA ; Silva, Fabio Q. B. ; Santos, Andre L. M. . Observation based analysis on the use of mobile applications for visually impaired users. In: the 18th International Conference, 2016, Florence. Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct - MobileHCI '16. New York: ACM Press, 2016. p. 807.
+
+12.
+Monteiro, Cleviton V. F. ; Da Silva, Fabio Q. B. ; CAPRETZ, LUIZ FERNANDO . The Innovative Behaviour of Software Engineers. In: the 10th ACM/IEEE International Symposium, 2016, Ciudad Real. Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - ESEM '16. New York: ACM Press. p. 1-10.
+
+13.
+DA CUNHA, JOSÉ ADSON O. G. ; Da Silva, Fabio Q. B. ; DE MOURA, HERMANO P. ; VASCONCELLOS, FRANCISCO J. S. . Towards a Substantive Theory of Decision-Making in Software Project Management. In: the 10th ACM/IEEE International Symposium, 2016, Ciudad Real. Proceedings of the 10th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - ESEM '16. New York: ACM Press. p. 1-10.
+
+14.
+Siebra, Clauirton ; GOUVEIA, TATIANA ; SODRE, LEONARDO ; Silva, Fabio Q. B. ; SANTOS, ANDRE L M . The anticipated test design and its use in legacy code refactoring: Lessons learned from a real experiment. In: 2016 International Conference on Information Technology for Organizations' Development (IT4OD), 2016, Fez. 2016 International Conference on Information Technology for Organizations Development (IT4OD), 2016. p. 1-6.
+
+15.
+Siebra, Clauirton ; ANJOS, MARCELO ; FLORENTIN, FABIANA ; GOUVEIA, TATIANA ; FILHO, ANDERSON ; CORREIA, WALTER ; PENHA, MARCELO ; SILVA, FABIO QB ; SANTOS, ANDRE LM . Accessibility Devices for Mobile Interfaces Extensions. In: the 17th International Conference, 2015, Copenhagen. Proceedings of the 17th International Conference on Human-Computer Interaction with Mobile Devices and Services Adjunct - MobileHCI '15, 2015. p. 644.
+
+16.
+Siebra, Clauirton ; GOUVEIA, TATIANA ; MACEDO, JEFTE ; CORREIA, WALTER ; PENHA, MARCELO ; SILVA, FABIO ; SANTOS, ANDRE ; ANJOS, MARCELO ; FLORENTIN, FABIANA . Usability requirements for mobile accessibility. In: the 14th International Conference, 2015, Linz. Proceedings of the 14th International Conference on Mobile and Ubiquitous Multimedia - MUM '15, 2015. p. 384-389.
+
+17.
+SIEBRA, CLAUIRTON A ; SA, BRUNO A ; GOUVEIA, TATIANA B ; SILVA, FABIO Q B ; SANTOS, ANDRE L M . A neural network based application for remote monitoring of human behaviour. In: 2015 International Conference on Computer Vision and Image Analysis Applications (ICCVIA), 2015, Sousse. International Conference on Computer Vision and Image Analysis Applications, 2015. p. 1-6.
+
+18.
+DE MAGALHÃES, CLEYTON V. C. ; Da Silva, Fabio Q. B. ; SANTOS, RONNIE E. S. . Investigations about replication of empirical studies in software engineering. In: the 18th International Conference, 2014, London. Proceedings of the 18th International Conference on Evaluation and Assessment in Software Engineering - EASE '14. New York: ACM Press. p. 1.
+
+19.
+FRANÇA, CÉSAR ; SHARP, HELEN ; Da Silva, Fabio Q. B. . Motivated software engineers are engaged and focused, while satisfied ones are happy. In: the 8th ACM/IEEE International Symposium, 2014, Torino. Proceedings of the 8th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement - ESEM '14. New York: ACM Press. p. 1.
+
+20.
+Clauirton A. Siebra ; Tatiana B. Gouveia ; Fabio Q.B. da Silva ; SANTOS, A. L. M. . Extração de Características das Curvas de um Acelerômetro Triaxial para Classificação de Movimentos. In: Congresso Brasileiro de Informática em Saúde, 2014, Santos. Anais do Congresso Brasileiro de Informática em Saúde 2014, 2014.

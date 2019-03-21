@@ -142,8 +142,16 @@ func LoadParameters(args []string) {
 			parameters.STRATEGY, _ = strconv.Atoi(variable[1])
 		case "NAMING_HOST":
 			parameters.NAMING_HOST = variable[1]
+		case "FIBONACCI_HOST":
+			parameters.FIBONACCI_HOST = variable[1]
 		case "QUEUEING_HOST":
 			parameters.QUEUEING_HOST = variable[1]
+		case "SHOW_PARAMETERS":
+			showParameters, err := strconv.ParseBool(variable[1])
+			if err != nil {
+				fmt.Println("Shared:: Variable SHOW_PARAMETERS has a wrong value")
+			}
+			parameters.SHOW_PARAMETERS = showParameters
 		default:
 			fmt.Println("Shared:: Parameter '" + variable[0] + "' does not exist")
 			os.Exit(0)
@@ -242,6 +250,8 @@ func Invoke(any interface{}, name string, args ... interface{}) {
 	for i, _ := range args {
 		inputs[i] = reflect.ValueOf(args[i])
 	}
+
+	//fmt.Println("Shared:: "+name)
 	reflect.ValueOf(any).MethodByName(name).Call(inputs)
 
 	inputs = nil

@@ -19,20 +19,7 @@ func GetBehaviourExp() string {
 	return "B = InvP.e1 -> I_PosInvP -> TerP.e1 -> B"
 }
 
-func (n FibonacciInvoker) Loop(channels map[string]chan messages.SAMessage) {
-	var msgPosInvP messages.SAMessage
-	for {
-		select {
-		case <-channels["InvP"]:
-		case msgPosInvP = <-channels["I_PosInvP"]:
-			n.I_PosInvP(&msgPosInvP)
-		case channels["TerP"] <- msgPosInvP:
-			return
-		}
-	}
-}
-
-func (FibonacciInvoker) I_PosInvP(msg *messages.SAMessage) {
+func (FibonacciInvoker) I_PosInvP(msg *messages.SAMessage,r *bool) {
 	op := msg.Payload.(messages.MIOP).Body.RequestHeader.Operation
 
 	switch op {
@@ -43,7 +30,7 @@ func (FibonacciInvoker) I_PosInvP(msg *messages.SAMessage) {
 		_p1 := int(_argsX[0].(float64))
 		_r := fibonacci.Fibonacci{}.Fibo(_p1) // dispatch
 
-		fmt.Println("Plugin 02")
+		//fmt.Println("[PLUGIN 02]")
 
 		// send reply
 		_replyHeader := messages.ReplyHeader{Status: 1} // 1 - Success

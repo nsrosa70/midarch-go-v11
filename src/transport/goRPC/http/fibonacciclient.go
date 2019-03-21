@@ -15,10 +15,10 @@ func main() {
 	var reply int
 
 	// read OS arguments
-	shared.ProcessOSArguments(os.Args[1:])
+	shared.LoadParameters(os.Args[1:])
 
 	// connect to server
-	client, err := rpc.DialHTTP("tcp", parameters.NAMING_HOST+":"+strconv.Itoa(parameters.NAMING_PORT))
+	client, err := rpc.DialHTTP("tcp", parameters.FIBONACCI_HOST+":"+strconv.Itoa(parameters.FIBONACCI_PORT))
 	if err != nil {
 		log.Fatal("Server not ready:", err)
 	}

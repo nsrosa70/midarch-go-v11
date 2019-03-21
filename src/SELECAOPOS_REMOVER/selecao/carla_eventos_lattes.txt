@@ -1,0 +1,71 @@
+1.
+PEIXOTO, M. M. ; SILVA, C. . Specifying Privacy Requirements with Goal-Oriented Modeling Languages. In: XXXII Brazilian Symposium on Software Engineering, 2018, São Carlos. Proceedings of the XXXII Brazilian Symposium on Software Engineering, 2018.
+
+2.
+PEIXOTO, M. M. ; SILVA, C. . Privacy Requirements Engineering in Agile Software Development. In: VIII Workshop de Teses e Dissertacoes do CBSoft, 2018, São Carlos. Proceedings of the VIII Workshop de Teses e Dissertacoes do CBSoft, 2018. p. 2-10.
+
+3.
+Netto, Dorgival ; SILVA, C. . Addressing Ambiguity in Legal Requirements Engineering of Software Systems. In: VIII Workshop de Teses e Dissertacoes do CBSoft, 2018, São Carlos. Proceedings of the VIII Workshop de Teses e Dissertacoes do CBSoft, 2018.
+
+4.
+PEIXOTO, M. M. ; Silva, Carla . A Gamification Requirements Catalog for Educational Software: Results from a Systematic Literature Review and a Survey with Experts. In: The 32nd ACM SIGAPP Symposium On Applied Computing, 2017, Marrakesh. Proceeding SAC '17 Proceedings of the Symposium on Applied Computing. New York: ACM, 2017. p. 1108-1113.
+
+5.
+MEDEIROS, JULIANA ; VASCONCELOS, ALEXANDRE ; GOULAO, MIGUEL ; Silva, Carla ; Araújo, J. . An approach based on design practices to specify requirements in agile projects. In: The 32nd ACM SIGAPP Symposium On Applied Computing, 2017, Marrakech. Proceeding SAC '17 Proceedings of the Symposium on Applied Computing. New York: ACM, 2017. p. 1114-1121.
+
+6.
+GUEDES, GABRIELA ; Silva, Carla ; SOARES, MONIQUE . Comparing Configuration Approaches for Dynamic Software Product Lines. In: the 31st Brazilian Symposium, 2017, Fortaleza. Proceedings of the 31st Brazilian Symposium on Software Engineering - SBES'17. New York: ACM Press, 2017. p. 134.
+
+7.
+Vilela, Jéssyka ; Castro, Jaelson ; MARTINS, LUIZ EDUARDO G. ; GORSCHEK, TONY ; Silva, Carla . Specifying Safety Requirements with GORE languages. In: the 31st Brazilian Symposium, 2017, Fortaleza. Proceedings of the 31st Brazilian Symposium on Software Engineering - SBES'17, 2017. p. 154.
+
+8.
+SOUTO, MYCHELLINE ; Silva, Carla . Um catálogo de requisitos pedagógicos para auxiliar o desenvolvimento de Softwares Educacionais. In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), 2017, Recife, 2017. p. 506.
+
+9.
+MEDEIROS, JULIANA ; GOULAO, MIGUEL ; VASCONCELOS, ALEXANDRE ; Silva, Carla . Towards a Model about Quality of Software Requirements Specification in Agile Projects. In: 2016 10th International Conference on the Quality of Information and Communications Technology (QUATIC), 2016, Lisbon. 2016 10th International Conference on the Quality of Information and Communications Technology (QUATIC). p. 236.
+
+10.
+GONCALVES, E. ; HOLANDA, A. C. ; Netto, Dorgival ; BASTOS, H. ; SILVA, F. Q. B. ; Silva, Carla ; CASTRO, J. F. B. . Explorando a Evolução do Problema de Pesquisa de Doutorado: Um Estudo Qualitativo no LER/UFPE. In: Workshop de Educação em Informática (WEI), 2016, Porto Alegre. Anais do Congresso da Sociedade Brasileira de Computação, 2016.
+
+11.
+LOPES, D. ; ROUSY, D. ; SILVA, C. . Um modelo de jogador baseado em Estilos de Aprendizagem. In: XXII Workshop de Informática na Escola (WIE 2016), 2016, Uberlândia. Anais do XXII Workshop de Informática na Escola (WIE 2016), 2016. p. 131.
+
+12.
+MEDEIROS, F. ; SANTOS, A. ; MEDEIROS, J. ; AYRES, F. ; Vasconcelos, A. ; SILVA, C. ; VIANA, C. ; ROCHA, J. ; VIEGAS, V. ; MENDES, E. . Information System to support Sports Federations: An approach to improve the quality of software specifications.. In: The 7th International Conference on Society and Information Technologies., 2016, Orlando, Florida. Proceedings do ICSIT., 2016.
+
+13.
+PEIXOTO, M. ; SILVA, C. . Requisitos para Softwares Educacionais Gamificados: Uma Revisão Sistemática de Literatura. In: 18th Workshop on Requirements Engineering (WER 2015), 2015, Lima. Proceedings of the XVIII Ibero-American Conference on Software Engineering.. Arequipa: Universidad Católica San Pablo, 2015. p. 97-103.
+
+14.
+OLIVEIRA, O. ; SILVA, C. . Modelando SOA a partir de Modelos Organizacionais. In: 18th Workshop on Requirements Engineering (WER 2015), 2015, Lima. Proceedings of the XVIII Ibero-American Conference on Software Engineering.. Arequipa: Universidad Católica San Pablo, 2015. p. 660-673.
+
+15.
+MEDEIROS, J. ; Vasconcelos, A. ; SILVA, C. . Integration of Agile Practices: An approach to improve the quality of software specifications. In: Doctoral Symposium, 2015, Lima. Proceedings of the XVIII Ibero-American Conference on Software Engineering.. Arequipa: Universidad Católica San Pablo, 2015. p. 859-865.
+
+16.
+MEDEIROS, J. ; ALVES, D. ; Vasconcelos, A. ; SILVA, C. ; WANDERLEY, E. . Requirements Engineering in Agile Projects: A Systematic Mapping based in Evidences of Industry. In: 12th Workshop on Experimental Software Engineering (ESELAW 2015), 2015, Lima. Proceedings of the XVIII Ibero-American Conference on Software Engineering.. Arequipa: Universidad Católica San Pablo, 2015. p. 460-473.
+
+17.
+BATISTA, C. ; SILVA, C. . Um Processo Criativo de Elicitação de Contextos para Sistemas Sensíveis ao Contexto. In: XI Simpósio Brasileiro de Sistemas de Informação, 2015, Goiania. Anais do XI Simpósio Brasileiro de Sistemas de Informação, 2015.
+
+18.
+GUEDES, G. ; SILVA, C. ; SOARES, M. ; CASTRO, J. F. B. . Variability Management in Dynamic Software Product Lines: A Systematic Mapping. In: 2015 IX Brazilian Symposium on Components, Architectures and Reuse Software (SBCARS), 2015, Belo Horizonte. 2015 IX Brazilian Symposium on Components, Architectures and Reuse Software. p. 90.
+
+19.
+MAIA, M. ; SILVA, C. ; VILELA, J. ; GONCALVES, E. . Um Mapeamento Sistemático de Gamificação em Software Educativo no Contexto da Comunidade Brasileira de Informática na Educação. In: IV Congresso Brasileiro de Informática na Educação, 2015, Maceió, Alagoas. Anais do CBIE., 2015.
+
+20.
+Souza, C. ; SILVA, C. . Uso Do Design Thinking Na Elicitação De Requisitos De Ambientes Virtuais De Aprendizagem Móvel.. In: XVII Workshop em Engenharia de Requisitos, 2014, Pucón. Anais do WER14, 2014.
+
+21.
+DANTAS, D. ; SILVA, C. ; ROUSY, D. . Um modelo de features para jogos sérios voltados à saúde: uma abordagem baseada em linha de produtos de software. In: XVII Workshop em Engenharia de Requisitos, 2014, Pucón. Anais do WER14, 2014.
+
+22.
+ALBUQUERQUE, H. ; SILVA, C. ; ROUSY, D. . NòmosBPMN: Adaptando o Nòmos para a Modelagem de Processos de Negócio. In: XVII Workshop em Engenharia de Requisitos, 2014, Pucón. Anais do WER14, 2014.
+
+23.
+ALBUQUERQUE, H. ; SILVA, C. ; ROUSY, D. . GenNòmos: um processo genérico para utilização do framework Nòmos. In: Simpósio Brasileiro de Sistemas de Informação, 2014, Londrina. Anais do SBSI14, 2014.
+
+24.
+MEDEIROS, J. ; VASCONCELOS, A. ; SILVA, C. . Integração de Práticas Ágeis: Uma abordagem para melhorar a qualidade de especificações de software em projetos mobile. In: IV Workshop De Teses e Dissertações Do CBSoft., 2014, Maceió. Anais do Congresso Brasileiro de Software: Teoria e Prática (CBSoft), 2014.
