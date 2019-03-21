@@ -8,10 +8,10 @@ import (
 	"google.golang.org/grpc"
 	protobuf "google.golang.org/grpc/examples/fibonacci/fibonacci"
 	"google.golang.org/grpc/reflection"
-)
-
-const (
-	port = ":50051"
+	"shared/parameters"
+	"strconv"
+	"fmt"
+	"shared/net"
 )
 
 // server is used to implement helloworld.GreeterServer.
@@ -34,7 +34,7 @@ func F(n int32) int32 {
 }
 
 func main() {
-	lis, err := net.Listen("tcp", port)
+	lis, err := net.Listen("tcp", ":"+strconv.Itoa(parameters.FIBONACCI_PORT))
 	if err != nil {
 		log.Fatalf("failed to listen: %v", err)
 	}
@@ -42,6 +42,7 @@ func main() {
 	protobuf.RegisterGreeterServer(s, &server{})
 
 	// Register reflection service on gRPC server.
+	fmt.Println("Fibonacci Server ready at: "+netshared.ResolveHostIp()+" Port: "+strconv.Itoa(parameters.FIBONACCI_PORT))
 	reflection.Register(s)
 	if err := s.Serve(lis); err != nil {
 		log.Fatalf("failed to serve: %v", err)

@@ -8,6 +8,10 @@ import (
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	pb "google.golang.org/grpc/examples/fibonacci/fibonacci"
+	"shared/shared"
+	"shared/parameters"
+	"strconv"
+	"os"
 )
 
 const (
@@ -15,8 +19,11 @@ const (
 )
 
 func main() {
+
+	shared.LoadParameters(os.Args[1:])
+
 	// Set up a connection to the server.
-	conn, err := grpc.Dial(address, grpc.WithInsecure())
+	conn, err := grpc.Dial(parameters.FIBONACCI_HOST+":"+strconv.Itoa(parameters.FIBONACCI_PORT), grpc.WithInsecure())
 	if err != nil {
 		log.Fatalf("did not connect: %v", err)
 	}
@@ -29,7 +36,7 @@ func main() {
 
 	ctx, cancel := context.WithTimeout(context.Background(), time.Second)
 	defer cancel()
-	for i := 0; i < 1000; i++ {
+	for i := 0; i < parameters.SAMPLE_SIZE; i++ {
 		ctx, cancel = context.WithTimeout(context.Background(), time.Second)
 		t1 := time.Now()
 		c.Fibo(ctx, &pb.FiboRequest{N: v})
